@@ -1,3 +1,5 @@
 # Automata_Java_Activities
 Output for DFA.java:
-<img width="1520" height="461" alt="DFA_Output" src="https://github.com/user-attachments/assets/3f038de2-3102-442d-8dcc-836391548ce6" />
+
+<img width="1520" height="348" alt="DFA_Output" src="https://github.com/user-attachments/assets/53019188-bdec-47ff-952a-0cc17a043f63" />
+
